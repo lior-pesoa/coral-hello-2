@@ -1,0 +1,8 @@
+{
+  "id": "hello-2",
+  "name": "Hello",
+  "kind": "mod",
+  "version": "0.1.0",
+  "api": 1,
+  "slots": ["pane"]
+}
